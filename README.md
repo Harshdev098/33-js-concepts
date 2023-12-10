@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 Conceptus Omnis JavaScript Developer Scire debet
   <br><br>
 </h1>
 
@@ -11,17 +11,17 @@
 
 <!-- [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso) -->
 
-## Introduction 
+## Introductio
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Repositorium hoc creatum est cum intentione tincidunt adiuvandi notiones suas in JavaScript. Non postulatio, sed studiorum futurarum dux est. Fundatur in articulo a Stephano Curtis scriptum et legere potes [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Consideretur GitHub ut unum [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## Communitas
 
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Libenter sentire PR submittere nexum addendo ad proprias reficiendas vel aestimationes. Si reponam in linguam tuam transferre vis, placet liberum facere
 
-All the translations for this repo will be listed below:
+Omnes translationes huius repo in infra recensentur:
 
 - [Shqip (Albanian)](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
 - [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
@@ -69,7 +69,7 @@ All the translations for this repo will be listed below:
 - [தமிழ் (Tamil)](https://github.com/Jaimin25/33-js-concepts) - Jaimin Chovatia
 
 ---
-## <img  align= center width=50px height=50px src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=6c09b952m4j3poopinf91rquev6qy4e8avu0bflq1e0vh4gp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> <a id="table-of-contents">Table of Contents</a>
+## <img  align= center width=50px height=50px src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=6c09b952m4j3poopinf91rquev6qy4e8avu0bflq1e0vh4gp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> <a id="table-of-contents">Tabula contentorum</a>
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
@@ -265,7 +265,7 @@ All the translations for this repo will be listed below:
 
 ## 6. Function Scope, Block Scope and Lexical Scope
 
-### Books
+### Libri
 
 - [You Don't Know JS Yet, 2nd Edition: Scope & Closures — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
@@ -475,7 +475,7 @@ All the translations for this repo will be listed below:
 
 ## 13. DOM and Layout Trees
 
-### Books
+### Libri
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 14 - The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
@@ -640,7 +640,7 @@ All the translations for this repo will be listed below:
 - [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
 - [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
-### Books
+### Libri
 
 - [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 - [The Principles of Object-Oriented JavaScript - Nicholas C. Zakas](https://www.google.com.pk/books/edition/The_Principles_of_Object_Oriented_JavaSc/rorlAwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover)
@@ -831,7 +831,7 @@ All the translations for this repo will be listed below:
 
 ## 22. High Order Functions
 
-### Books
+### Libri
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 5 - Higher-order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
@@ -990,7 +990,7 @@ All the translations for this repo will be listed below:
 
 -  [async/await — JavaScript.Info](https://javascript.info/async-await)
 
-### Books
+### Libri
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 11 - Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 -  [Exploring JS: Asynchronous Programming](http://exploringjs.com/es6/ch_async.html)
@@ -1151,7 +1151,7 @@ All the translations for this repo will be listed below:
 
 - [Design Patterns - Patterns.dev](https://www.patterns.dev/posts/#design-patterns)
 
-### Books
+### Libri
 
 -  [Learning JavaScript Design Patterns — Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 -  [Pro JavaScript Design Patterns — Ross Harmes and Dustin Diaz](https://pepa.holla.cz/wp-content/uploads/2016/08/Pro-JavaScript-Design-Patterns.pdf)
@@ -1190,7 +1190,7 @@ All the translations for this repo will be listed below:
 
 ## 32. Partial Applications, Currying, Compose and Pipe
 
-### Books
+### Libri
 
 -  [Functional-Light JavaScript: Ch. 3 - Managing Function Inputs — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
 
@@ -1270,5 +1270,5 @@ All the translations for this repo will be listed below:
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## <img  align= center width=50px height=50px src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> License <a id = "License"></a>
+## <img  align= center width=50px height=50px src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> Licentia <a id = "License"></a>
 This software is licensed under MIT License, See [License](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) for more information ©Leonardo Maldonado.
